@@ -1,0 +1,38 @@
+#intro{
+    margin: 70px;
+}
+
+#bsse{
+    margin-top: 50px;
+}
+
+#about{
+    margin-top: 20px;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#head{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#body{
+    margin: 40px;
+}
+
+#genre{
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(1, 15, 9);
+    background-color: rgb(242, 243, 208);
+}
+
+.nav-link{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
+
+.panel{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
